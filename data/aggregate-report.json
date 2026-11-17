@@ -1,0 +1,567 @@
+{
+  "usage": {
+    "available": true,
+    "exported_at": "2026-10-31T17:30:47.832511+00:00",
+    "sessions": 60,
+    "events": 1004,
+    "actions": {
+      "page_view": 80,
+      "search_completed": 152,
+      "athlete_selected": 45,
+      "reference_selected": 49,
+      "reference_ready": 47,
+      "matches_viewed": 85,
+      "engagement": 429,
+      "photo_opened": 15,
+      "filter_changed": 14,
+      "results_requested": 23,
+      "comparison_opened": 16,
+      "comparison_ready": 16,
+      "comparison_closed": 10,
+      "reference_unavailable": 2,
+      "opponent_search_completed": 5,
+      "ranking_changed": 5,
+      "opponent_selected": 1,
+      "share_clicked": 2,
+      "share_result": 2,
+      "shared_comparison_opened": 1,
+      "load_more": 2,
+      "support_sent": 2,
+      "support_withdrawn": 1
+    },
+    "reach": {
+      "matches_viewed": 25,
+      "photo_opened": 8,
+      "filter_changed": 8,
+      "page_view": 60,
+      "reference_ready": 26,
+      "reference_selected": 26,
+      "athlete_selected": 26,
+      "search_completed": 27,
+      "comparison_opened": 12,
+      "comparison_ready": 12,
+      "results_requested": 11,
+      "comparison_closed": 7,
+      "reference_unavailable": 2,
+      "share_clicked": 2,
+      "opponent_search_completed": 1,
+      "ranking_changed": 3,
+      "opponent_selected": 1,
+      "share_result": 2,
+      "shared_comparison_opened": 1,
+      "load_more": 1,
+      "support_sent": 2,
+      "support_withdrawn": 1
+    },
+    "ordered_funnel": {
+      "page_view": 60,
+      "search_completed": 27,
+      "athlete_selected": 26,
+      "reference_ready": 26,
+      "matches_viewed": 25,
+      "comparison_opened": 11,
+      "comparison_ready": 11
+    },
+    "median_active_seconds": 16.95,
+    "median_seconds_to_matches": 8.54,
+    "cohorts": [
+      {
+        "kind": "week",
+        "cohort": "2026-09-28",
+        "sessions": 17,
+        "median_active_seconds": 27.91,
+        "matches_viewed": 6,
+        "comparison_opened": 1,
+        "comparison_ready": 1,
+        "support_sent": 0,
+        "share_clicked": 0,
+        "positive_matches": 6
+      },
+      {
+        "kind": "week",
+        "cohort": "2026-10-05",
+        "sessions": 11,
+        "median_active_seconds": 73.11,
+        "matches_viewed": 8,
+        "comparison_opened": 5,
+        "comparison_ready": 5,
+        "support_sent": 0,
+        "share_clicked": 2,
+        "positive_matches": 8
+      },
+      {
+        "kind": "week",
+        "cohort": "2026-10-12",
+        "sessions": 25,
+        "median_active_seconds": 16.06,
+        "matches_viewed": 9,
+        "comparison_opened": 6,
+        "comparison_ready": 6,
+        "support_sent": 2,
+        "share_clicked": 0,
+        "positive_matches": 9
+      },
+      {
+        "kind": "week",
+        "cohort": "2026-10-19",
+        "sessions": 5,
+        "median_active_seconds": 0.88,
+        "matches_viewed": 2,
+        "comparison_opened": 0,
+        "comparison_ready": 0,
+        "support_sent": 0,
+        "share_clicked": 0,
+        "positive_matches": 2
+      },
+      {
+        "kind": "week",
+        "cohort": "2026-10-26",
+        "sessions": 2,
+        "median_active_seconds": 6.61,
+        "matches_viewed": 0,
+        "comparison_opened": 0,
+        "comparison_ready": 0,
+        "support_sent": 0,
+        "share_clicked": 0,
+        "positive_matches": 0
+      }
+    ]
+  },
+  "usage_calendar": [
+    {
+      "day": "2026-09-30",
+      "sessions_started": 3,
+      "events": 213,
+      "non_heartbeat_events": 140
+    },
+    {
+      "day": "2026-10-01",
+      "sessions_started": 11,
+      "events": 89,
+      "non_heartbeat_events": 26
+    },
+    {
+      "day": "2026-10-02",
+      "sessions_started": 2,
+      "events": 31,
+      "non_heartbeat_events": 19
+    },
+    {
+      "day": "2026-10-03",
+      "sessions_started": 1,
+      "events": 22,
+      "non_heartbeat_events": 18
+    },
+    {
+      "day": "2026-10-04",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-05",
+      "sessions_started": 3,
+      "events": 130,
+      "non_heartbeat_events": 68
+    },
+    {
+      "day": "2026-10-06",
+      "sessions_started": 4,
+      "events": 102,
+      "non_heartbeat_events": 64
+    },
+    {
+      "day": "2026-10-07",
+      "sessions_started": 3,
+      "events": 35,
+      "non_heartbeat_events": 18
+    },
+    {
+      "day": "2026-10-08",
+      "sessions_started": 1,
+      "events": 1,
+      "non_heartbeat_events": 1
+    },
+    {
+      "day": "2026-10-09",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-10",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-11",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-12",
+      "sessions_started": 12,
+      "events": 148,
+      "non_heartbeat_events": 78
+    },
+    {
+      "day": "2026-10-13",
+      "sessions_started": 5,
+      "events": 123,
+      "non_heartbeat_events": 77
+    },
+    {
+      "day": "2026-10-14",
+      "sessions_started": 6,
+      "events": 14,
+      "non_heartbeat_events": 6
+    },
+    {
+      "day": "2026-10-15",
+      "sessions_started": 1,
+      "events": 27,
+      "non_heartbeat_events": 20
+    },
+    {
+      "day": "2026-10-16",
+      "sessions_started": 1,
+      "events": 1,
+      "non_heartbeat_events": 1
+    },
+    {
+      "day": "2026-10-17",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-18",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-19",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-20",
+      "sessions_started": 0,
+      "events": 9,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-21",
+      "sessions_started": 1,
+      "events": 10,
+      "non_heartbeat_events": 6
+    },
+    {
+      "day": "2026-10-22",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-23",
+      "sessions_started": 4,
+      "events": 42,
+      "non_heartbeat_events": 30
+    },
+    {
+      "day": "2026-10-24",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-25",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-26",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-27",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-28",
+      "sessions_started": 1,
+      "events": 6,
+      "non_heartbeat_events": 2
+    },
+    {
+      "day": "2026-10-29",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    },
+    {
+      "day": "2026-10-30",
+      "sessions_started": 1,
+      "events": 1,
+      "non_heartbeat_events": 1
+    },
+    {
+      "day": "2026-10-31",
+      "sessions_started": 0,
+      "events": 0,
+      "non_heartbeat_events": 0
+    }
+  ],
+  "archive": {
+    "csv_files": 897,
+    "race_series": 115,
+    "result_rows": 1495743,
+    "csv_bytes": 357148812,
+    "years": {
+      "2004": 2468,
+      "2005": 5575,
+      "2006": 7354,
+      "2007": 8091,
+      "2008": 9286,
+      "2009": 13987,
+      "2010": 19341,
+      "2011": 32000,
+      "2012": 38915,
+      "2013": 45905,
+      "2014": 50982,
+      "2015": 69735,
+      "2016": 78250,
+      "2017": 96525,
+      "2018": 106672,
+      "2019": 126141,
+      "2020": 9846,
+      "2021": 86446,
+      "2022": 131899,
+      "2023": 132920,
+      "2024": 152075,
+      "2025": 152193,
+      "2026": 119137
+    },
+    "annual": [
+      {
+        "year": "2004",
+        "entries": 2468,
+        "race_editions": 1,
+        "entries_per_edition": 2468.0,
+        "year_over_year_percent": null
+      },
+      {
+        "year": "2005",
+        "entries": 5575,
+        "race_editions": 3,
+        "entries_per_edition": 1858.3,
+        "year_over_year_percent": 125.9
+      },
+      {
+        "year": "2006",
+        "entries": 7354,
+        "race_editions": 5,
+        "entries_per_edition": 1470.8,
+        "year_over_year_percent": 31.9
+      },
+      {
+        "year": "2007",
+        "entries": 8091,
+        "race_editions": 4,
+        "entries_per_edition": 2022.8,
+        "year_over_year_percent": 10.0
+      },
+      {
+        "year": "2008",
+        "entries": 9286,
+        "race_editions": 5,
+        "entries_per_edition": 1857.2,
+        "year_over_year_percent": 14.8
+      },
+      {
+        "year": "2009",
+        "entries": 13987,
+        "race_editions": 7,
+        "entries_per_edition": 1998.1,
+        "year_over_year_percent": 50.6
+      },
+      {
+        "year": "2010",
+        "entries": 19341,
+        "race_editions": 11,
+        "entries_per_edition": 1758.3,
+        "year_over_year_percent": 38.3
+      },
+      {
+        "year": "2011",
+        "entries": 32000,
+        "race_editions": 19,
+        "entries_per_edition": 1684.2,
+        "year_over_year_percent": 65.5
+      },
+      {
+        "year": "2012",
+        "entries": 38915,
+        "race_editions": 22,
+        "entries_per_edition": 1768.9,
+        "year_over_year_percent": 21.6
+      },
+      {
+        "year": "2013",
+        "entries": 45905,
+        "race_editions": 26,
+        "entries_per_edition": 1765.6,
+        "year_over_year_percent": 18.0
+      },
+      {
+        "year": "2014",
+        "entries": 50982,
+        "race_editions": 30,
+        "entries_per_edition": 1699.4,
+        "year_over_year_percent": 11.1
+      },
+      {
+        "year": "2015",
+        "entries": 69735,
+        "race_editions": 41,
+        "entries_per_edition": 1700.9,
+        "year_over_year_percent": 36.8
+      },
+      {
+        "year": "2016",
+        "entries": 78250,
+        "race_editions": 46,
+        "entries_per_edition": 1701.1,
+        "year_over_year_percent": 12.2
+      },
+      {
+        "year": "2017",
+        "entries": 96525,
+        "race_editions": 54,
+        "entries_per_edition": 1787.5,
+        "year_over_year_percent": 23.4
+      },
+      {
+        "year": "2018",
+        "entries": 106672,
+        "race_editions": 58,
+        "entries_per_edition": 1839.2,
+        "year_over_year_percent": 10.5
+      },
+      {
+        "year": "2019",
+        "entries": 126141,
+        "race_editions": 64,
+        "entries_per_edition": 1971.0,
+        "year_over_year_percent": 18.3
+      },
+      {
+        "year": "2020",
+        "entries": 9846,
+        "race_editions": 11,
+        "entries_per_edition": 895.1,
+        "year_over_year_percent": -92.2
+      },
+      {
+        "year": "2021",
+        "entries": 86446,
+        "race_editions": 54,
+        "entries_per_edition": 1600.9,
+        "year_over_year_percent": 778.0
+      },
+      {
+        "year": "2022",
+        "entries": 131899,
+        "race_editions": 80,
+        "entries_per_edition": 1648.7,
+        "year_over_year_percent": 52.6
+      },
+      {
+        "year": "2023",
+        "entries": 132920,
+        "race_editions": 85,
+        "entries_per_edition": 1563.8,
+        "year_over_year_percent": 0.8
+      },
+      {
+        "year": "2024",
+        "entries": 152075,
+        "race_editions": 94,
+        "entries_per_edition": 1617.8,
+        "year_over_year_percent": 14.4
+      },
+      {
+        "year": "2025",
+        "entries": 152193,
+        "race_editions": 100,
+        "entries_per_edition": 1521.9,
+        "year_over_year_percent": 0.1
+      },
+      {
+        "year": "2026",
+        "entries": 119137,
+        "race_editions": 77,
+        "entries_per_edition": 1547.2,
+        "year_over_year_percent": -21.7
+      }
+    ],
+    "nonempty_fields": {
+      "Athlete Name": 1495735,
+      "City": 1463340,
+      "State": 1195424,
+      "Country": 1485563,
+      "Gender": 1491796,
+      "Division": 1495743,
+      "Bib Number": 1495737
+    },
+    "statuses": {
+      "FIN": 1421474,
+      "DNF": 68325,
+      "DQ": 5944
+    },
+    "headers": [
+      "AWA Points",
+      "Athlete Name",
+      "Bib Number",
+      "Bike (Seconds)",
+      "Bike Rank (Division)",
+      "Bike Rank (Gender)",
+      "Bike Rank (Overall)",
+      "Bike Time",
+      "City",
+      "Country",
+      "Division",
+      "Division Rank",
+      "Finish (Seconds)",
+      "Finish Time",
+      "Gender",
+      "Gender Rank",
+      "Overall Rank",
+      "Run (Seconds)",
+      "Run Rank (Division)",
+      "Run Rank (Gender)",
+      "Run Rank (Overall)",
+      "Run Time",
+      "State",
+      "Status",
+      "Swim (Seconds)",
+      "Swim Rank (Division)",
+      "Swim Rank (Gender)",
+      "Swim Rank (Overall)",
+      "Swim Time",
+      "T1 (Seconds)",
+      "T1 Time",
+      "T2 (Seconds)",
+      "T2 Time"
+    ]
+  }
+}

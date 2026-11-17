@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "id": "P01"
+    },
+    {
+      "id": "P02"
+    },
+    {
+      "id": "P03"
+    },
+    {
+      "id": "P04"
+    },
+    {
+      "id": "P05"
+    }
+  ],
+  "learnings": [
+    {
+      "learning": "Positive reaction to the idea",
+      "participants": [
+        "P01",
+        "P02",
+        "P03",
+        "P04",
+        "P05"
+      ],
+      "takeaway": ""
+    },
+    {
+      "learning": "Seeing race percentiles can be valuable on its own",
+      "participants": [
+        "P01"
+      ],
+      "takeaway": "Keep performance analysis useful before asking people to connect."
+    },
+    {
+      "learning": "Training partners need to be nearby",
+      "participants": [
+        "P01",
+        "P02",
+        "P03"
+      ],
+      "takeaway": "Use home city rather than race to match people [done]. Consider asking where people currently train."
+    },
+    {
+      "learning": "Similar finish times can hide different strengths",
+      "participants": [
+        "P03",
+        "P04"
+      ],
+      "takeaway": "Let athletes compare individual sports. [done]"
+    },
+    {
+      "learning": "Recent training and strava logs help people get value from a training partner.",
+      "participants": [
+        "P03",
+        "P04"
+      ],
+      "takeaway": "expose partner's recent workouts, routes, and availability."
+    },
+    {
+      "learning": "Reaching out requires both a contact route and willingness",
+      "participants": [
+        "P02",
+        "P04"
+      ],
+      "takeaway": "Try introductions through a club or a shared workout."
+    },
+    {
+      "learning": "People share the app outside its Share button",
+      "participants": [
+        "P01",
+        "P02"
+      ],
+      "takeaway": "Ask how people heard about the app; Share clicks miss referrals."
+    },
+    {
+      "learning": "Race photos can feel intriguing and intrusive",
+      "participants": [
+        "P04"
+      ],
+      "takeaway": "Check whether photos help people or make them uncomfortable."
+    }
+  ]
+}

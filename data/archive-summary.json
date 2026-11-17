@@ -1,0 +1,243 @@
+{
+  "csv_files": 897,
+  "race_series": 115,
+  "result_rows": 1495743,
+  "csv_bytes": 357148812,
+  "years": {
+    "2004": 2468,
+    "2005": 5575,
+    "2006": 7354,
+    "2007": 8091,
+    "2008": 9286,
+    "2009": 13987,
+    "2010": 19341,
+    "2011": 32000,
+    "2012": 38915,
+    "2013": 45905,
+    "2014": 50982,
+    "2015": 69735,
+    "2016": 78250,
+    "2017": 96525,
+    "2018": 106672,
+    "2019": 126141,
+    "2020": 9846,
+    "2021": 86446,
+    "2022": 131899,
+    "2023": 132920,
+    "2024": 152075,
+    "2025": 152193,
+    "2026": 119137
+  },
+  "annual": [
+    {
+      "year": "2004",
+      "entries": 2468,
+      "race_editions": 1,
+      "entries_per_edition": 2468.0,
+      "year_over_year_percent": null
+    },
+    {
+      "year": "2005",
+      "entries": 5575,
+      "race_editions": 3,
+      "entries_per_edition": 1858.3,
+      "year_over_year_percent": 125.9
+    },
+    {
+      "year": "2006",
+      "entries": 7354,
+      "race_editions": 5,
+      "entries_per_edition": 1470.8,
+      "year_over_year_percent": 31.9
+    },
+    {
+      "year": "2007",
+      "entries": 8091,
+      "race_editions": 4,
+      "entries_per_edition": 2022.8,
+      "year_over_year_percent": 10.0
+    },
+    {
+      "year": "2008",
+      "entries": 9286,
+      "race_editions": 5,
+      "entries_per_edition": 1857.2,
+      "year_over_year_percent": 14.8
+    },
+    {
+      "year": "2009",
+      "entries": 13987,
+      "race_editions": 7,
+      "entries_per_edition": 1998.1,
+      "year_over_year_percent": 50.6
+    },
+    {
+      "year": "2010",
+      "entries": 19341,
+      "race_editions": 11,
+      "entries_per_edition": 1758.3,
+      "year_over_year_percent": 38.3
+    },
+    {
+      "year": "2011",
+      "entries": 32000,
+      "race_editions": 19,
+      "entries_per_edition": 1684.2,
+      "year_over_year_percent": 65.5
+    },
+    {
+      "year": "2012",
+      "entries": 38915,
+      "race_editions": 22,
+      "entries_per_edition": 1768.9,
+      "year_over_year_percent": 21.6
+    },
+    {
+      "year": "2013",
+      "entries": 45905,
+      "race_editions": 26,
+      "entries_per_edition": 1765.6,
+      "year_over_year_percent": 18.0
+    },
+    {
+      "year": "2014",
+      "entries": 50982,
+      "race_editions": 30,
+      "entries_per_edition": 1699.4,
+      "year_over_year_percent": 11.1
+    },
+    {
+      "year": "2015",
+      "entries": 69735,
+      "race_editions": 41,
+      "entries_per_edition": 1700.9,
+      "year_over_year_percent": 36.8
+    },
+    {
+      "year": "2016",
+      "entries": 78250,
+      "race_editions": 46,
+      "entries_per_edition": 1701.1,
+      "year_over_year_percent": 12.2
+    },
+    {
+      "year": "2017",
+      "entries": 96525,
+      "race_editions": 54,
+      "entries_per_edition": 1787.5,
+      "year_over_year_percent": 23.4
+    },
+    {
+      "year": "2018",
+      "entries": 106672,
+      "race_editions": 58,
+      "entries_per_edition": 1839.2,
+      "year_over_year_percent": 10.5
+    },
+    {
+      "year": "2019",
+      "entries": 126141,
+      "race_editions": 64,
+      "entries_per_edition": 1971.0,
+      "year_over_year_percent": 18.3
+    },
+    {
+      "year": "2020",
+      "entries": 9846,
+      "race_editions": 11,
+      "entries_per_edition": 895.1,
+      "year_over_year_percent": -92.2
+    },
+    {
+      "year": "2021",
+      "entries": 86446,
+      "race_editions": 54,
+      "entries_per_edition": 1600.9,
+      "year_over_year_percent": 778.0
+    },
+    {
+      "year": "2022",
+      "entries": 131899,
+      "race_editions": 80,
+      "entries_per_edition": 1648.7,
+      "year_over_year_percent": 52.6
+    },
+    {
+      "year": "2023",
+      "entries": 132920,
+      "race_editions": 85,
+      "entries_per_edition": 1563.8,
+      "year_over_year_percent": 0.8
+    },
+    {
+      "year": "2024",
+      "entries": 152075,
+      "race_editions": 94,
+      "entries_per_edition": 1617.8,
+      "year_over_year_percent": 14.4
+    },
+    {
+      "year": "2025",
+      "entries": 152193,
+      "race_editions": 100,
+      "entries_per_edition": 1521.9,
+      "year_over_year_percent": 0.1
+    },
+    {
+      "year": "2026",
+      "entries": 119137,
+      "race_editions": 77,
+      "entries_per_edition": 1547.2,
+      "year_over_year_percent": -21.7
+    }
+  ],
+  "nonempty_fields": {
+    "Athlete Name": 1495735,
+    "City": 1463340,
+    "State": 1195424,
+    "Country": 1485563,
+    "Gender": 1491796,
+    "Division": 1495743,
+    "Bib Number": 1495737
+  },
+  "statuses": {
+    "FIN": 1421474,
+    "DNF": 68325,
+    "DQ": 5944
+  },
+  "headers": [
+    "AWA Points",
+    "Athlete Name",
+    "Bib Number",
+    "Bike (Seconds)",
+    "Bike Rank (Division)",
+    "Bike Rank (Gender)",
+    "Bike Rank (Overall)",
+    "Bike Time",
+    "City",
+    "Country",
+    "Division",
+    "Division Rank",
+    "Finish (Seconds)",
+    "Finish Time",
+    "Gender",
+    "Gender Rank",
+    "Overall Rank",
+    "Run (Seconds)",
+    "Run Rank (Division)",
+    "Run Rank (Gender)",
+    "Run Rank (Overall)",
+    "Run Time",
+    "State",
+    "Status",
+    "Swim (Seconds)",
+    "Swim Rank (Division)",
+    "Swim Rank (Gender)",
+    "Swim Rank (Overall)",
+    "Swim Time",
+    "T1 (Seconds)",
+    "T1 Time",
+    "T2 (Seconds)",
+    "T2 Time"
+  ]
+}
